@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiayanchen\\source\\repos\\Solution23\\webapi\\webapi.csproj": {}
+    "C:\\Users\\jiayanchen\\source\\repos\\Project4\\Solution23\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiayanchen\\source\\repos\\Solution23\\webapi\\webapi.csproj": {
+    "C:\\Users\\jiayanchen\\source\\repos\\Project4\\Solution23\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiayanchen\\source\\repos\\Solution23\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\jiayanchen\\source\\repos\\Project4\\Solution23\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\jiayanchen\\source\\repos\\Solution23\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\jiayanchen\\source\\repos\\Project4\\Solution23\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\jiayanchen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiayanchen\\source\\repos\\Solution23\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\jiayanchen\\source\\repos\\Project4\\Solution23\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
